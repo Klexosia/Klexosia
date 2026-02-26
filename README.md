@@ -1,8 +1,7 @@
 ### I'm Klexosia on the internet!
 <p>My pronouns are she/her.</p>
-<p>You can find me on YouTube, Reddit, Tumblr (and more?)</p>
+<p>You can find me on codepen and codeforces too</p>
 <p>I'm a writer and a coder (does Scratch count?)</p>
-<p>Aaand I'm new here! Just looking around, trying to figure out what I can do...</p>
 
 <!--
 **Klexosia/Klexosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
